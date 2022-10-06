@@ -1,1 +1,1 @@
-new working directories
+new working directories in a long format
